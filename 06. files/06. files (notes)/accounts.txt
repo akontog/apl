@@ -1,4 +1,0 @@
-100 Euler 155.78
-101 Gauss 326.05
-100 Riemann 52.33
-101 Cauchy 1126.05
